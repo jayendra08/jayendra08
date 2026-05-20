@@ -34,8 +34,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jayendra-ghosh-6b6ab6373?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/jayendra-ghosh-6b6ab6373/" />
 </a>
 
 <a href="mailto:jaya09577L@gmail.com">
