@@ -38,7 +38,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:Yjaya09577L@gmail.com">
+<a href="mailto:jaya09577L@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
