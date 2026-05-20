@@ -4,15 +4,15 @@
   <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="150" style="border-radius:50%" />
 </p>
 
-<h1 align="center">I'm Zeunix 🚀</h1>
+<h1 align="center">I'm Jayendra 🚀</h1>
 
 <h3 align="center">
 Competitive Programmer • DSA Learner • Future Software Engineer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;DSA+Enthusiast;Competitive+Programmer;Learning+Full+Stack+Development;Future+FAANG+Engineer" />
+  <a href="https://github.com/jayendra08">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" />
   </a>
 </p>
 
@@ -20,25 +20,25 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 # 💫 About Me
 
-- 🌱 Currently learning **DSA & Competitive Programming**
-- 💻 Solving problems on **LeetCode & Codeforces**
-- 🚀 Goal: Crack a top MNC
-- ⚡ Fun fact: I debug more than I code 😅
+- Passionate about software development and problem solving
+- Currently exploring modern technologies and computer science concepts
+- Interested in building efficient and scalable applications
+- Continuously learning and improving as a developer
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/jayendra08">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jayendra-ghosh-6b6ab6373?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Yjaya09577L@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -59,9 +59,9 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayendra08&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayendra08&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -71,7 +71,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jayendra08&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -81,7 +81,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayendra08&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -91,7 +91,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jayendra08&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -101,7 +101,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jayendra08/jayendra08/output/snake.svg" alt="Snake animation" />
 
 </p>
 
@@ -121,7 +121,7 @@ Competitive Programmer • DSA Learner • Future Software Engineer
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=jayendra08&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 
 </p>
 
