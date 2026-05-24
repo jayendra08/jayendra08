@@ -7,7 +7,7 @@
 <h1 align="center">I'm Jayendra 🚀</h1>
 
 <h3 align="center">
-Competitive Programmer • DSA Learner • Future Software Engineer
+Turning curiosity into code.
 </h3>
 
 <p align="center">
