@@ -18,7 +18,7 @@ Turning curiosity into code.
 
 ---
 
-# 💫 About Me
+# 💫 About Me :
 
 - Passionate about software development and problem solving
 - Currently exploring modern technologies and computer science concepts
