@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="150" style="border-radius:50%" />
 </p>
 
-<h1 align="center">I'm Jayendra 🚀</h1>
+<h1 align="center">I'm Jayendra! 🚀</h1>
 
 <h3 align="center">
 Turning curiosity into code.
